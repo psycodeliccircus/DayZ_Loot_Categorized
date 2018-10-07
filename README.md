@@ -5,21 +5,30 @@ This is my customized DayZ Loot table. Which is the Type.xml file. I categorized
 
 Instruction:
 **Download** the file.
+
 Go to your **server directory.**
+
 Go to **mpmission.**
+
 Go to **your mission.**
+
 Go to **db**.
+
 **Paste** the file and **replace** your type.xml
+
 **Always** make **backup** first.
 
 EX:
 Military Clothing
-Civilian Clothing
-Tools
-Weapons
-You get the point
-I will update this when DayZ updates add's more item to the list.
-I also want to add at the top the line so we can go to it faster.
 
-Anyway here is the link
-Download Here v0.1
+Civilian Clothing
+
+Tools
+
+Weapons
+
+You get the point
+
+I will update this when DayZ updates add's more item to the list.
+
+I also want to add at the top the line so we can go to it faster.
